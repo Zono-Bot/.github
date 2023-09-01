@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<!--
+
 
 **Zono**
 
@@ -9,4 +9,3 @@
 👩‍💻 What we do? - We make discord bots for fun!
 🍿 Website - https://zono.bloxy.pro
 🧙 Join our [server](https://zono.bloxy.pro/server)
--->
